@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520751297700",
+    "project_id": "fir-kotin-crr",
+    "storage_bucket": "fir-kotin-crr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520751297700:android:954a5ae06ae4fec635e231",
+        "android_client_info": {
+          "package_name": "com.cromero.firebaseluis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520751297700-s7sgs1jdgkd2j03slb9m4lik4khh28qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkmjXx8EWWt82W14jkNja_P7fIDm7VTDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520751297700-s7sgs1jdgkd2j03slb9m4lik4khh28qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
